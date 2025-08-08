@@ -1,3 +1,4 @@
 name = "my-ip-worker" # 你可以改成你喜欢的名字
-main = "src/index.js"
+main = "index.js"
 compatibility_date = "2024-01-01" # 使用最新的兼容性日期
+
